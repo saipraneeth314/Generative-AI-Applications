@@ -1,0 +1,10 @@
+bs4
+getpass
+langchain
+langchain_community
+langchain_core
+langchain_huggingface
+langchain_text_splitters
+langgraph
+os
+warnings
