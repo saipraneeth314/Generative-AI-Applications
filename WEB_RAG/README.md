@@ -1,41 +1,39 @@
-# WEB RAG – Retrieval-Augmented Generation for Web-Based Knowledge Retrieval
+# **WEB RAG – Retrieval-Augmented Generation for Web-Based Knowledge Retrieval**  
 
-## Overview
-Built a Web-Based *Retrieval-Augmented Generation (RAG)* System that enhances knowledge retrieval by combining search-based retrieval with generative AI models. This project enables accurate, context-aware responses by leveraging large-scale text data, making it highly valuable for applications like medical research, legal document analysis, and enterprise knowledge management.
+## Overview  
+WEB RAG is a **web-based Retrieval-Augmented Generation (RAG) system** that efficiently retrieves and generates context-aware information from large-scale text data. It is designed to enhance applications in **medical research, legal document analysis, and enterprise knowledge management**.  
 
-## Installation
-To install the required dependencies, run:
-```bash
-pip install -r requirements.txt
-```
+## Key Features  
+- **Efficient Document Retrieval** – Utilizes vector databases and embeddings for precise search.  
+- **Context-Aware Generation** – Augments retrieved knowledge with AI-driven text generation.  
+- **Multi-Source Data Integration** – Supports structured and unstructured data from multiple sources.  
+- **Scalable Web-Based Interface** – Enables seamless access and interaction with the RAG model.  
 
-## Usage
-1. **Set Up the Environment**  
-   Install the required dependencies:  
+## Tech Stack  
+- **LLMs:** Groq AI, OpenAI GPT  
+- **Framework:** LangSmith, LangChain, Haugging Face.  
+- **Programming Language:** Python. 
+
+## Impact  
+- **Enables efficient information retrieval** for research-intensive domains.  
+- **Reduces manual document analysis time**, streamlining workflows.  
+- **Enhances response accuracy** by grounding AI-generated content in real-world data.  
+
+## Installation & Setup  
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/saipraneeth314/Generative-AI-Applications.git
+   cd Generative-AI-Applications/WEB_RAG
+   ```
+2. **Install dependencies:**  
    ```bash
    pip install -r requirements.txt
-   ```  
+   ```
 
-2. **Specify the Target Website**  
-   Update the script with the website URL from which data needs to be retrieved. Ensure the website allows web scraping by reviewing its `robots.txt`.  
+## Future Enhancements  
+- Improve multi-document retrieval performance.  
+- Integrate advanced ranking mechanisms for better results.  
+- Expand support for more file formats (PDFs, HTML, etc.).   
 
-3. **Run the Retrieval Script**  
-   Execute the script to fetch and process data from the specified website:  
-   ```bash
-   python retrieve_data.py
-   ```  
-
-## Dependencies
-The project requires the following Python libraries:
-```
-bs4
-getpass
-langchain
-langchain_community
-langchain_core
-langchain_huggingface
-langchain_text_splitters
-langgraph
-os
-warnings
-```
+##  Contact  
+For any queries or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/saipraneeth314) or [GitHub Issues](https://github.com/saipraneeth314/Generative-AI-Applications/issues).  
