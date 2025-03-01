@@ -1,5 +1,5 @@
 # **WEB RAG – Retrieval-Augmented Generation for Web-Based Knowledge Retrieval**  
-
+   **Enhancing knowledge retrieval with search-based retrieval and generative AI models**
 ## Overview  
 WEB RAG is a **web-based Retrieval-Augmented Generation (RAG) system** that efficiently retrieves and generates context-aware information from large-scale text data. It is designed to enhance applications in **medical research, legal document analysis, and enterprise knowledge management**.  
 
@@ -8,11 +8,6 @@ WEB RAG is a **web-based Retrieval-Augmented Generation (RAG) system** that effi
 - **Context-Aware Generation** – Augments retrieved knowledge with AI-driven text generation.  
 - **Multi-Source Data Integration** – Supports structured and unstructured data from multiple sources.  
 - **Scalable Web-Based Interface** – Enables seamless access and interaction with the RAG model.  
-
-## Tech Stack  
-- **LLMs:** Groq AI, OpenAI GPT  
-- **Framework:** LangSmith, LangChain, Haugging Face.  
-- **Programming Language:** Python. 
 
 ## Impact  
 - **Enables efficient information retrieval** for research-intensive domains.  
@@ -33,7 +28,10 @@ WEB RAG is a **web-based Retrieval-Augmented Generation (RAG) system** that effi
 ## Future Enhancements  
 - Improve multi-document retrieval performance.  
 - Integrate advanced ranking mechanisms for better results.  
-- Expand support for more file formats (PDFs, HTML, etc.).   
+- Expand support for more file formats (PDFs, HTML, etc.).  
+
+## Contributing  
+Contributions are welcome! Feel free to fork the repo and submit a pull request. 
 
 ##  Contact  
-For any queries or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/saipraneeth314) or [GitHub Issues](https://github.com/saipraneeth314/Generative-AI-Applications/issues).  
+For any queries or collaborations, reach out via [LinkedIn](https://www.linkedin.com/in/sai-praneeth-kasam-96bb501ba/) or [GitHub Issues](https://github.com/saipraneeth314/Generative-AI-Applications/issues).  
