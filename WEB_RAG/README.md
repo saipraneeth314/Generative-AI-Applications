@@ -1,4 +1,4 @@
-# RAG-based Web Data Retrieval Application
+# WEB RAG – Retrieval-Augmented Generation for Web-Based Knowledge Retrieval
 
 ## Overview
 This project is a **Retrieval-Augmented Generation (RAG)** application that retrieves data from a specified website and enhances text-based retrieval with generative AI capabilities.
