@@ -1,7 +1,7 @@
 # WEB RAG – Retrieval-Augmented Generation for Web-Based Knowledge Retrieval
 
 ## Overview
-This project is a **Retrieval-Augmented Generation (RAG)** application that retrieves data from a specified website and enhances text-based retrieval with generative AI capabilities.
+Built a Web-Based *Retrieval-Augmented Generation (RAG)* System that enhances knowledge retrieval by combining search-based retrieval with generative AI models. This project enables accurate, context-aware responses by leveraging large-scale text data, making it highly valuable for applications like medical research, legal document analysis, and enterprise knowledge management.
 
 ## Installation
 To install the required dependencies, run:
